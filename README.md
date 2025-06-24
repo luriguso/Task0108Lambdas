@@ -19,10 +19,9 @@ Across three progressive levels, you'll implement powerful functional features t
 
 ## 💻 TECHNOLOGIES USED
 
-- ✔ Java 17+
+- ✔ Java 8+
 - ✔ Eclipse / IntelliJ IDEA
 - ✔ Git & GitHub for version control
-- ✔ Maven
 
 ---
 
